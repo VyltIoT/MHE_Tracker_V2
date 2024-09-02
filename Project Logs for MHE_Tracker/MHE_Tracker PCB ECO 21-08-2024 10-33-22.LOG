@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VOUT_EN Pin=D1-1
+Removed Pin From Net: NetName=VIN Pin=R3-2
+Removed Member From Class: ClassName=D1_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R3_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R3_Nets Member=VIN
+Removed Member From Class: ClassName=D1_Nets Member=VOUT_EN
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Pin To Net: NetName=VOUT_EN Pin=R3-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=D1_Nets Member=Wire NetD1_1
+Added Member To Class: ClassName=R3_Nets Member=Wire NetD1_1
+Added Member To Class: ClassName=D1_Nets Member=Wire VIN
+Added Member To Class: ClassName=R3_Nets Member=Wire VOUT_EN

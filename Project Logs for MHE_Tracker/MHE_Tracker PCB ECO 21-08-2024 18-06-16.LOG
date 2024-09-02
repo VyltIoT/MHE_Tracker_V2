@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=BATT_ADC Pin=M1-34
+Added Pin To Net: NetName=BATT_ADC Pin=M1-12

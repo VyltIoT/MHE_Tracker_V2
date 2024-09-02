@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=3V3 Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-2
+Removed Member From Class: ClassName=C8_Nets Member=3V3
+Removed Member From Class: ClassName=U1_Nets Member=3V3
+Change Component Footprint: Designator=C9 Old Footprint=CAP_6.3_7.7 New Footprint=CAPC1608X10N
+Change Component Comment : Designator=C9 Old Comment=ERP_102-2 New Comment=ERP_102-1
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP_6.3_7.7"; UniqueID = "\UVMFTDVY" ("\UVMFTDVY")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM188R6YA475KE15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-7205-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TLV767XXDRV"; UniqueID = "\CAFBCFXK" ("\CAFBCFXK")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TLV76750DRVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LDO 5V0"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TLV767XXDRV)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TLV76733DRVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LDO 3V3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=5V0 Pin=C8-1
+Added Pin To Net: NetName=5V0 Pin=U1-1
+Added Pin To Net: NetName=5V0 Pin=U1-2
+Added Pin To Net: NetName=5V0 Pin=U2-6
+Added Net: Name=5V0
+Added Class: Name=U2_Nets
+Added Member To Class: ClassName=PowerSection Member=Component U2 TLV767XXDRV
+Added Member To Class: ClassName=C8_Nets Member=Wire 5V0
+Added Member To Class: ClassName=U1_Nets Member=Wire 5V0
+Added Rule: Name=Schematic Supply Nets_6

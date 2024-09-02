@@ -1,0 +1,9 @@
+Added Component: Designator=J10(KLDX-0202-AC)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Add Pin To Net: Unknown Pin: Pin J10-3
+Added Member To Class: ClassName=PowerSection Member=Component J10 KLDX-0202-AC

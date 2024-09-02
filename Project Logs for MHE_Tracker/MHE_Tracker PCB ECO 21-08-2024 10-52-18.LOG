@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ESP_3V3 Pin=C1-2
+Removed Pin From Net: NetName=ESP_3V3 Pin=C2-2
+Removed Pin From Net: NetName=ESP_3V3 Pin=C3-2
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=ESP_3V3 Pin=J1-2
+Removed Pin From Net: NetName=ESP_3V3 Pin=M1-3
+Removed Member From Class: ClassName=Controller Member=J1
+Removed Member From Class: ClassName=C1_Nets Member=ESP_3V3
+Removed Member From Class: ClassName=C2_Nets Member=ESP_3V3
+Removed Member From Class: ClassName=C3_Nets Member=ESP_3V3
+Removed Member From Class: ClassName=M1_Nets Member=ESP_3V3
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=M1-3
+Added Member To Class: ClassName=C1_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C2_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C3_Nets Member=Wire 3V3
+Added Member To Class: ClassName=M1_Nets Member=Wire 3V3

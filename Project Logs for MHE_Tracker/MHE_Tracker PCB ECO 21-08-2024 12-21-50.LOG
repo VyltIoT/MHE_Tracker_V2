@@ -1,0 +1,15 @@
+Added Component: Designator=J1(2PX1R)
+Added Component: Designator=J4(2PX1R)
+Added Component: Designator=J5(2PX1R)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=3V3 Pin=J4-1
+Added Pin To Net: NetName=3V3 Pin=J4-2
+Added Pin To Net: NetName=5V0 Pin=J5-1
+Added Pin To Net: NetName=5V0 Pin=J5-2
+Added Class: Name=J1_Nets
+Added Class: Name=J4_Nets
+Added Class: Name=J5_Nets
+Added Member To Class: ClassName=PowerSection Member=Component J1 ERP_148-2
+Added Member To Class: ClassName=PowerSection Member=Component J4 ERP_148-2
+Added Member To Class: ClassName=PowerSection Member=Component J5 ERP_148-2

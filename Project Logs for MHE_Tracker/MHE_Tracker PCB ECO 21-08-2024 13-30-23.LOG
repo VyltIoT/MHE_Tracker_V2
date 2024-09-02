@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=R4_Nets Member=ESP_3V3
+Removed Member From Class: ClassName=R6_Nets Member=ESP_3V3
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Member To Class: ClassName=R4_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R6_Nets Member=Wire 3V3

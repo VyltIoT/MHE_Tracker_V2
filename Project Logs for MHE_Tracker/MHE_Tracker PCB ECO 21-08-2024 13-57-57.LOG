@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SPI_SS Pin=J11-4
+Removed Pin From Net: NetName=RXD1 Pin=J11-5
+Removed Pin From Net: NetName=TXD1 Pin=J11-6
+Added Pin To Net: NetName=RXD1 Pin=J11-4
+Added Pin To Net: NetName=TXD1 Pin=J11-5
+Added Pin To Net: NetName=SPI_SS Pin=J11-6

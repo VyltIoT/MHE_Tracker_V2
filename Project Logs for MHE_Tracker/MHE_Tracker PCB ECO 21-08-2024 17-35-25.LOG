@@ -1,0 +1,16 @@
+Added Component: Designator=ZD1(DDZ79)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DDZ9684-7"; VariantName = "[No Variations]"
+Added Component: Designator=ZD2(DDZ79)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DDZ9684-7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IR_OUT Pin=ZD1-1
+Added Pin To Net: NetName=GND Pin=ZD1-2
+Added Pin To Net: NetName=BATT_ADC Pin=ZD2-1
+Added Pin To Net: NetName=GND Pin=ZD2-2
+Added Class: Name=ZD1_Nets
+Added Class: Name=ZD2_Nets
+Added Member To Class: ClassName=Controller Member=Component ZD1 DDZ79
+Added Member To Class: ClassName=Controller Member=Component ZD2 DDZ79

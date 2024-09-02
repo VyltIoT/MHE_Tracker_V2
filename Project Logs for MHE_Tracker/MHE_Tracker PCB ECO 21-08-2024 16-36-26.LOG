@@ -1,0 +1,35 @@
+Change component parameters: Designator = "U3" ("U3"); Footprint = "APX803L"; UniqueID = "\STODCKBG" ("\STODCKBG")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "APX803L20-35SA-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "APX803L"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=BATT_ADC Pin=M1-34
+Added Net: Name=BATT_ADC
+Added Pin To Net: NetName=IR_IN Pin=R12-2
+Added Net: Name=IR_IN
+Added Pin To Net: NetName=IR_OUT Pin=M1-15
+Added Pin To Net: NetName=IR_OUT Pin=R12-1
+Added Pin To Net: NetName=IR_OUT Pin=R13-2
+Added Net: Name=IR_OUT
+Added Class: Name=R12_Nets
+Added Class: Name=R13_Nets
+Added Member To Class: ClassName=Controller Member=Component R12 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=M1_Nets Member=Wire BATT_ADC
+Added Member To Class: ClassName=M1_Nets Member=Wire IR_OUT
