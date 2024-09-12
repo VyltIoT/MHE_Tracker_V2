@@ -236,13 +236,51 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NZRMJBMZ
 
+[Document12]
+DocumentPath=IMU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QTAYYBBJ
+
+[Document13]
+DocumentPath=..\..\LIB\IntegratedCircuits\IMU.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CMINUHFF
+
 [Parameter1]
-Name=Revision
-Value=1.0
+Name=Project
+Value=MHE Tracker V2
 
 [Parameter2]
 Name=SheetTotal
-Value=4
+Value=5
+
+[Parameter3]
+Name=Revision
+Value=1.0
 
 [Configuration1]
 Name=Sources
