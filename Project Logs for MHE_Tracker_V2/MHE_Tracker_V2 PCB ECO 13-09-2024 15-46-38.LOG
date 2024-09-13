@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SPI_MISO Pin=J11-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=J11-2
+Removed Pin From Net: NetName=SPI_SCLK Pin=J11-3
+Removed Pin From Net: NetName=RXD1 Pin=J11-4
+Removed Pin From Net: NetName=TXD1 Pin=J11-5
+Removed Pin From Net: NetName=SPI_SS Pin=J11-6
+Removed Member From Class: ClassName=Controller Member=J11
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Change Class Name : Old Net Name=J11_Nets New Net Name=J8_Nets
+Add Class Member: Failed to add class member : Component J8 6X2_1P27_MH_TH

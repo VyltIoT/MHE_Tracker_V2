@@ -1,0 +1,27 @@
+Added Component: Designator=U8(FOD817A3SD)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "FOD817A3SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(FOD817A3SD)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "FOD817A3SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(FOD817A3SD)
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "FOD817A3SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR38_1 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=IR_OUT Pin=U8-3
+Added Pin To Net: NetName=NetR36_1 Pin=U8-4
+Added Pin To Net: NetName=NetR13_1 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=ENC_A_OUT Pin=U9-3
+Added Pin To Net: NetName=NetR12_1 Pin=U9-4
+Added Pin To Net: NetName=NetR44_1 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=ENC_B_OUT Pin=U10-3
+Added Pin To Net: NetName=NetR43_1 Pin=U10-4
+Added Member To Class: ClassName=Controller Member=Component U8 FOD817A3SD
+Added Member To Class: ClassName=Controller Member=Component U9 FOD817A3SD
+Added Member To Class: ClassName=Controller Member=Component U10 FOD817A3SD

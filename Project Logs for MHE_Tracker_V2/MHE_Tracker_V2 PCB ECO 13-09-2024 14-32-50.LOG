@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED_SERVER_ACT Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=3V3 Pin=R4-2
+Removed Member From Class: ClassName=Controller Member=D2
+Removed Member From Class: ClassName=Controller Member=Q4
+Removed Member From Class: ClassName=Controller Member=R4

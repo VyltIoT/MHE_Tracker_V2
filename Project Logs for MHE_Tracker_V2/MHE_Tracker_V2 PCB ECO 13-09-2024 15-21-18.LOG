@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=IO26 Pin=M1-14
+Added Net: Name=IO26
+Added Member To Class: ClassName=M1_Nets Member=Wire IO26

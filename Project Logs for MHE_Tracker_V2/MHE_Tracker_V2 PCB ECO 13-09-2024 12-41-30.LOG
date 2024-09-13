@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=IR_IN Pin=J6-2
+Removed Pin From Net: NetName=ENC_IN_A Pin=J7-2
+Removed Pin From Net: NetName=ENC_IN_B Pin=J7-3
+Removed Pin From Net: NetName=ENC_IN_B Pin=R40-1
+Removed Pin From Net: NetName=ENC_IN_A Pin=R41-1
+Removed Member From Class: ClassName=J7_Nets Member=5VIN
+Removed Member From Class: ClassName=R40_Nets Member=5VIN
+Removed Member From Class: ClassName=R41_Nets Member=5VIN
+Removed Member From Class: ClassName=J7_Nets Member=ENC_IN_A
+Removed Member From Class: ClassName=R41_Nets Member=ENC_IN_A
+Removed Member From Class: ClassName=J7_Nets Member=ENC_IN_B
+Removed Member From Class: ClassName=R40_Nets Member=ENC_IN_B
+Removed Member From Class: ClassName=C1_Nets Member=GND
+Removed Member From Class: ClassName=C3_Nets Member=GND
+Added Component: Designator=U11(74LVC125ABQ)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "74LVC125ABQ,115"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=J7-1
+Added Pin To Net: NetName=ENC_IN_A Pin=R40-1
+Added Pin To Net: NetName=5V0 Pin=R40-2
+Added Pin To Net: NetName=ENC_IN_B Pin=R41-1
+Added Pin To Net: NetName=5V0 Pin=R41-2
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=ENC_IN_A Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=ENC_IN_B Pin=U11-6
+Added Pin To Net: NetName=GND Pin=U11-7
+Added Pin To Net: NetName=IR_IN Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U11-10
+Added Pin To Net: NetName=5V0 Pin=U11-14
+Added Pin To Net: NetName=ENC_IN_A_5V Pin=J7-2
+Added Pin To Net: NetName=ENC_IN_A_5V Pin=U11-2
+Added Net: Name=ENC_IN_A_5V
+Added Pin To Net: NetName=ENC_IN_B_5V Pin=J7-3
+Added Pin To Net: NetName=ENC_IN_B_5V Pin=U11-5
+Added Net: Name=ENC_IN_B_5V
+Added Pin To Net: NetName=IR_IN_5V Pin=J6-2
+Added Pin To Net: NetName=IR_IN_5V Pin=U11-9
+Added Net: Name=IR_IN_5V
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Net: Name=NetC1_1
+Change Class Name : Old Net Name=J6_Nets New Net Name=U11_Nets
+Added Class: Name=J6_Nets
+Added Member To Class: ClassName=Controller Member=Component U11 74LVC125ABQ
+Added Member To Class: ClassName=J7_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R40_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R41_Nets Member=Wire 5V0
+Added Member To Class: ClassName=U11_Nets Member=Wire ENC_IN_A_5V
+Added Member To Class: ClassName=J7_Nets Member=Wire ENC_IN_A_5V
+Added Member To Class: ClassName=U11_Nets Member=Wire ENC_IN_A
+Added Member To Class: ClassName=R40_Nets Member=Wire ENC_IN_A
+Added Member To Class: ClassName=U11_Nets Member=Wire ENC_IN_B_5V
+Added Member To Class: ClassName=J7_Nets Member=Wire ENC_IN_B_5V
+Added Member To Class: ClassName=U11_Nets Member=Wire ENC_IN_B
+Added Member To Class: ClassName=R41_Nets Member=Wire ENC_IN_B
+Added Member To Class: ClassName=U11_Nets Member=Wire IR_IN_5V
+Added Member To Class: ClassName=C1_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=C3_Nets Member=Wire NetC1_1

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=M1_Nets Member=LED_SERVER_ACT
+Added Pin To Net: NetName=ENC_B_OUT Pin=M1-33
+Added Pin To Net: NetName=ENC_A_OUT Pin=M1-34
+Added Member To Class: ClassName=M1_Nets Member=Wire ENC_A_OUT
+Added Member To Class: ClassName=M1_Nets Member=Wire ENC_B_OUT

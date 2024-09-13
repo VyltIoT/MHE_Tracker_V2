@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BATT_ADC Pin=R15-1
+Removed Pin From Net: NetName=VIN Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=BATT_ADC Pin=R16-2
+Removed Pin From Net: NetName=BATT_ADC Pin=ZD2-1
+Removed Pin From Net: NetName=GND Pin=ZD2-2
+Removed Member From Class: ClassName=Controller Member=R15
+Removed Member From Class: ClassName=Controller Member=R16
+Removed Member From Class: ClassName=Controller Member=ZD2

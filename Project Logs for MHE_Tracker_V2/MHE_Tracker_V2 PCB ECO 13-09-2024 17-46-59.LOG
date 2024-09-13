@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VIN Pin=R16-2
+Removed Member From Class: ClassName=R16_Nets Member=VIN

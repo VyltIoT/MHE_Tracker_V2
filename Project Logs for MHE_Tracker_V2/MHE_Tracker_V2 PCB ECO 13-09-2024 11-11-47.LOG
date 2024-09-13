@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IR_OUT Pin=R12-1
+Removed Pin From Net: NetName=IR_IN Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=IR_OUT Pin=R13-2
+Removed Pin From Net: NetName=IR_OUT Pin=ZD1-1
+Removed Pin From Net: NetName=GND Pin=ZD1-2
+Removed Member From Class: ClassName=Controller Member=R12
+Removed Member From Class: ClassName=Controller Member=R13
+Removed Member From Class: ClassName=Controller Member=ZD1

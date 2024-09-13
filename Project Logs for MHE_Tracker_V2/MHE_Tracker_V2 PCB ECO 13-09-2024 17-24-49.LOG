@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VIN Pin=C6-1
+Removed Pin From Net: NetName=VIN Pin=C7-1
+Removed Pin From Net: NetName=VIN Pin=U1-6
+Removed Member From Class: ClassName=C6_Nets Member=VIN
+Removed Member From Class: ClassName=C7_Nets Member=VIN
+Removed Member From Class: ClassName=U1_Nets Member=VIN
+Added Component: Designator=U12(MP24943DN)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Monolithic Power Systems Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MP24943DN-LF-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-1
+Added Pin To Net: NetName=NetC6_1 Pin=U1-6
+Added Net: Name=NetC6_1
+Added Class: Name=U12_Nets
+Added Member To Class: ClassName=Power Section Member=Component U12 MP24943DN
+Added Member To Class: ClassName=C6_Nets Member=Wire NetC6_1
+Added Member To Class: ClassName=C7_Nets Member=Wire NetC6_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetC6_1

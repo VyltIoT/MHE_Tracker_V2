@@ -1,0 +1,11 @@
+Added Component: Designator=J8(6X2_1P27_MH_TH)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HPH2-A-06-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_MISO Pin=J8-1
+Added Pin To Net: NetName=RXD1 Pin=J8-2
+Added Pin To Net: NetName=SPI_MOSI Pin=J8-3
+Added Pin To Net: NetName=TXD1 Pin=J8-4
+Added Pin To Net: NetName=SPI_SCLK Pin=J8-5
+Added Pin To Net: NetName=SPI_SS Pin=J8-6
+Added Member To Class: ClassName=Controller Member=Component J8 6X2_1P27_MH_TH
