@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Member From Class: ClassName=IMU Member=J10
+Removed Member From Class: ClassName=IMU Member=R36
+Removed Member From Class: ClassName=U6_Nets Member=NetJ10_1

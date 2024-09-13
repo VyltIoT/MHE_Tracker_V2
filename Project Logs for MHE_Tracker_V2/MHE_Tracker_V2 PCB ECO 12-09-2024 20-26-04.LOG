@@ -1,0 +1,8 @@
+Added Component: Designator=J12(CR1220-BH)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RTC3V3 Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Class: Name=J12_Nets
+Added Member To Class: ClassName=Controller Member=Component J12 CR1220-BH
