@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=VOUT Pin=C6-1
+Removed Pin From Net: NetName=VOUT Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=5V0 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=VOUT Pin=C23-2
+Removed Pin From Net: NetName=VOUT Pin=C24-1
+Removed Pin From Net: NetName=VOUT Pin=C25-1
+Removed Pin From Net: NetName=VOUT Pin=L1-2
+Removed Pin From Net: NetName=VOUT Pin=R46-2
+Removed Pin From Net: NetName=VOUT Pin=R48-2
+Removed Pin From Net: NetName=5V0 Pin=U1-1
+Removed Pin From Net: NetName=5V0 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=VOUT_EN Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=VOUT Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Member From Class: ClassName=Power Section Member=C7
+Removed Member From Class: ClassName=Power Section Member=C8
+Removed Member From Class: ClassName=Power Section Member=U1
+Removed Member From Class: ClassName=C23_Nets Member=VOUT
+Removed Member From Class: ClassName=C24_Nets Member=VOUT
+Removed Member From Class: ClassName=C25_Nets Member=VOUT
+Removed Member From Class: ClassName=L1_Nets Member=VOUT
+Removed Member From Class: ClassName=R46_Nets Member=VOUT
+Removed Member From Class: ClassName=R48_Nets Member=VOUT
+Added Pin To Net: NetName=5V0 Pin=C6-1
+Added Pin To Net: NetName=5V0 Pin=C23-2
+Added Pin To Net: NetName=5V0 Pin=C24-1
+Added Pin To Net: NetName=5V0 Pin=C25-1
+Added Pin To Net: NetName=5V0 Pin=L1-2
+Added Pin To Net: NetName=5V0 Pin=R46-2
+Added Pin To Net: NetName=5V0 Pin=R48-2
+Change Class Name : Old Net Name=C8_Nets New Net Name=C6_Nets
+Added Member To Class: ClassName=C23_Nets Member=Wire 5V0
+Added Member To Class: ClassName=C24_Nets Member=Wire 5V0
+Added Member To Class: ClassName=C25_Nets Member=Wire 5V0
+Added Member To Class: ClassName=L1_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R46_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R48_Nets Member=Wire 5V0

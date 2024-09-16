@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\MHE_Tracker_V2\MHE_Tracker_V2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mhe_tracker_v2.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=mhe_tracker_v2-rectholes.txt|DrillLayers=gtl,gbl
