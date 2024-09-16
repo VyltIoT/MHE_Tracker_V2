@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:57:14 On 16-09-2024
+Start Output Generation At 14:42:26 On 16-09-2024
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [MHE_Tracker_V2.PrjPcb]
-   Generated File[Bill of Materials-MHE_Tracker_V2.xlsx]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [MHE_Tracker_V2.PcbDoc]
+   Generated File[Pick Place for MHE_Tracker_V2.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:57:15 On 16-09-2024
+Finished Output Generation At 14:42:26 On 16-09-2024
