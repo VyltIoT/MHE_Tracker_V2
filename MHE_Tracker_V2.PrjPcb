@@ -338,6 +338,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLYTOMEO
 
+[Document18]
+DocumentPath=..\..\LIB\IntegratedCircuits\ACDC_Switcher.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EIILHPRP
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MHE_Tracker_V2\Design Rule Check - MHE_Tracker_V2.html
 DItemRevisionGUID=
