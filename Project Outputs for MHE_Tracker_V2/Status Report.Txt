@@ -1,15 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 11:51:32 On 08-11-2024
+Start Output Generation At 03:16:27 PM On 10-12-2024
 
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Export STEP
+Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [MHE_Tracker_V2.PcbDoc]
-   Generated File[Pick Place for MHE_Tracker_V2.txt]
-   Generated File[Pick Place for MHE_Tracker_V2.csv]
+   Generated File[MHE_Tracker_V2.step]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:51:34 On 08-11-2024
+Finished Output Generation At 03:16:34 PM On 10-12-2024
